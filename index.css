@@ -1,0 +1,363 @@
+body{
+    background-color: hsl(215, 40%, 15%);
+    height: 400vh;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    font-family: arial;
+    font-size: 13px;
+}
+.navbar{
+    margin-left: 1000px;
+    margin-top: 50px;
+}
+#logo{
+    margin-left: 40px;
+    position: relative;
+    top: -70px;
+}
+#intro{
+    height: 450px;
+    width: 500px;
+    margin-top: -25px;
+    margin-left: 420px;
+}
+#desk{
+    margin-left: -200px;
+    margin:-100px;
+}
+#files{
+    color: white;
+    font-family: cambria;
+    margin-top: -50px;
+}
+.section{
+    background-color: hsl(218, 28%, 13%);
+    height: 200vh;
+    position: relative;
+    top: -320px;
+    margin: -10px;
+    margin-top: 400px;
+}
+.Fylo{
+    color: white;
+    font-family: arial;
+    font-size: 14pt;
+    margin-top: -10px;
+    position: relative;
+    top: -2100px;
+}
+#get{
+    padding:15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgb(56, 194, 194);
+    color: white;
+    border-radius: 30px;
+}
+#secure{
+    margin-left: 1000px;
+    margin-top: 100px;
+}
+#text1{
+    font-family: arial;
+    margin-left: 950px;
+}
+#para1{
+    font-family: cambria;
+    margin-left: 720px;
+}
+#file{
+    margin-left: 1000px;
+    margin-top: 100px;
+}
+#text2{
+    font-family: arial;
+    margin-left: 950px;
+}
+#para2{
+    font-family: cambria;
+    margin-left: 720px;
+}
+#access{
+    margin-left: 300px;
+    position: relative;
+    top: -580px;
+}
+#text3{
+    margin-left: 210px;
+    position: relative;
+    top: -580px;
+}
+#para3{
+    font-family: cambria;
+    margin-left: -650px;
+    position: relative;
+    top: -580px;
+}
+#text4{
+    font-size: 25pt;
+    margin-left: 730px;
+    position: relative;
+    top: -500px;
+}
+#para4{
+    margin-left: 730px;
+    position: relative;
+    top: -500px;
+}
+#productive{
+    margin-left: 250px;
+    position: relative;
+    top: -800px;
+    height: 350px;
+    width: 350px;
+}
+#fylo{
+    color: cyan;
+    font-size: 12pt;
+    text-decoration: underline;
+}
+#favi{
+    text-decoration: underline;
+    height: 10px;
+    color: cyan;
+    background-color: cyan;
+    width: 10px;
+    border-radius: 5px;
+}
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    margin-left: ;
+    /* background-color: green; */
+    color: white;
+    position: relative;
+    top: -100%;
+}
+.box1{
+    padding: 10px;
+    padding-left: 20px;
+    background-color: hsl(215, 40%, 15%);
+    margin-left: 100px;
+    font-family: arial;
+   
+}
+.box2{
+    padding: 10px;
+    padding-left: 10px;
+    background-color: hsl(215, 40%, 15%);
+    margin-left: 100px;
+    font-family: arial;
+}
+.box3{
+    padding: 10px;
+    padding-left: 10px;
+    background-color: hsl(215, 40%, 15%);
+    margin-left: 100px;
+    padding-top: 20px;
+    font-family: arial;
+    
+}
+#apos{
+    position: relative;
+    top: -4790px;
+    margin-left: 60px;
+}
+#pic1{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+}
+#Iva{
+    margin-left: 50px;
+    margin-top: -30px;
+    font-size: 14pt;
+}
+#found1{
+    font-size: 10pt;
+    margin-left: 50px;
+    position: relative;
+    top: -20px;
+}
+.footer{
+    background-color: hsl(216, 53%, 9%);
+    height: 70vh;
+    position: relative;
+    top: -2975px;
+    margin: -10px;
+    margin-top: 400px;
+}
+.foot{
+    background-color: hsl(217, 28%, 15%);
+    height: 20vh;
+    position: relative;
+    top: -3950px;
+    margin: 300px;
+    margin-top: 400px;
+    padding: 50px;
+    border-radius: 10px;
+}
+#early{
+    color:white;
+    font-family:cambria;
+    font-size: 30pt;
+    margin-top:-25px;
+}
+c{
+    color: white;
+    font-family: arial;
+    font-size: 11pt;
+}
+#get2{
+    padding:15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgb(56, 194, 194);
+    color: white;
+    border-radius: 30px;
+    margin-left: 350px;
+}
+#get3{
+    padding:15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgb(238, 240, 240);
+    color: white;
+    border-radius: 30px;
+    position: relative;
+    top: -50px;
+    /* margin-top: -3px; */
+}
+#fylo_logo{
+    margin-top: 220px;
+    margin-left: 150px;
+}
+#insta{
+  color: white;
+  padding-left: 10px;  
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: relative;
+  top: -100px;
+}
+#twit{
+  color: white;
+  padding-left: 10px;  
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 1200px;
+  position: relative;
+  top: -130px;
+}
+#face{
+  color: white;
+  padding-left: 10px;  
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 1150px;
+  position: relative;
+  top: -165px;
+}
+q{
+    border: 1px solid;
+    padding: 3px;
+    margin-left: 1250px;
+    border-radius: 30px;
+}
+#contact{
+    color:white;
+    font-family: arial;
+    margin-left: -200px;
+    position: relative;
+    top: -170px;
+}
+#Term{
+    color: white;
+    font-family: arial;
+    margin-left: -80px;
+    position: relative;
+    top: -120px;
+}
+#pri{
+    color: white;
+    font-family: arial;
+    margin-left: -47px;
+    position: relative;
+    top: -70px; 
+}
+#about{
+    color:white;
+    font-family: arial;
+    margin-left: -200px;
+    position: relative;
+    top: -170px;
+}
+#job{
+    color: white;
+    font-family: arial;
+    margin-left: -70px;
+    position: relative;
+    top: -120px;
+}
+#pres{
+    color: white;
+    font-family: arial;
+    margin-left: -38px;
+    position: relative;
+    top: -70px; 
+}
+#blog{
+    color: white;
+    font-family: arial;
+    position: relative;
+    top: -25px;
+    margin-left: -42px;
+}
+#no{
+    color: white;
+    font-family: arial;
+    margin-left: -300px;
+    position: relative;
+    top: -170px;
+}
+#mail{
+    color: white;
+    font-family: arial;
+    margin-left: -121px;
+    position: relative;
+    top: -120px;
+    font-size: 10pt;
+}
+#phone{
+    margin-left: -23px;
+    position: relative;
+    top: -120px;
+}
+#email{
+    margin-left: -170px;
+    position: relative;
+    top: -170px;
+}
+
+#ipsum{
+    color: white;
+    font-family: Arial;
+    font-size: 13pt;
+    padding-left: 150px;
+    padding-top: -50px;
+}
+#locate{
+    margin-left:-440px;
+    position: relative;
+    top: -170px;
+}
